@@ -11,10 +11,14 @@
             "id": "c183390674176201",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "docs/history/登高-杜甫.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "登高-杜甫"
             }
           }
         ]
@@ -163,5 +167,8 @@
     }
   },
   "active": "c183390674176201",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "docs/history/test.md",
+    "docs/history/test"
+  ]
 }
